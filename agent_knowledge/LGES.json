@@ -1,0 +1,166 @@
+{
+  "agent": "LGES",
+  "data": {
+    "profile": {
+      "full_name": "LG Energy Solution",
+      "stock_code": "373220",
+      "market_cap_trillion_krw": 85,
+      "global_rank": 2,
+      "founded": "2020 (Spun off from LG Chem)"
+    },
+    "financials": {
+      "2024": {
+        "revenue_trillion_krw": 28.5,
+        "operating_profit_trillion_krw": 0.9,
+        "operating_margin_percent": 3.2,
+        "rd_investment_billion_krw": 850,
+        "capex_trillion_krw": 5.2
+      },
+      "2023": {
+        "revenue_trillion_krw": 25.8,
+        "operating_profit_trillion_krw": -0.7,
+        "operating_margin_percent": -2.7
+      }
+    },
+    "capacity": {
+      "2024_total_gwh": 220,
+      "2025_plan_gwh": 300,
+      "2030_target_gwh": 520,
+      "facilities": [
+        {
+          "location": "Ochang, South Korea",
+          "capacity_gwh": 40,
+          "status": "Operational"
+        },
+        {
+          "location": "Ohio, USA",
+          "capacity_gwh": 35,
+          "status": "Operational",
+          "partners": ["GM Ultium"]
+        },
+        {
+          "location": "Tennessee, USA",
+          "capacity_gwh": 10,
+          "status": "Under Construction",
+          "expected_completion": "2025"
+        }
+      ]
+    },
+    "technology": {
+      "main_chemistries": ["NCM811", "NCM9", "NCMA"],
+      "form_factors": ["Pouch", "Cylindrical 4680"],
+      "next_gen": {
+        "solid_state": "Prototype target: 2027",
+        "lithium_metal": "Research stage",
+        "silicon_anode": "Production ready"
+      },
+      "patents_filed_2024": 450
+    },
+    "customers": {
+      "major_oems": [
+        {
+          "name": "Tesla",
+          "models": ["Model Y", "Cybertruck"],
+          "contract_value_billion_usd": 7.0,
+          "contract_period": "2023-2028"
+        },
+        {
+          "name": "GM",
+          "models": ["Ultium platform"],
+          "contract_value_billion_usd": 5.0,
+          "jv": "Ultium Cells (50-50)"
+        },
+        {
+          "name": "Hyundai-Kia",
+          "models": ["E-GMP platform"],
+          "contract_value_billion_usd": 3.5
+        },
+        {
+          "name": "Ford",
+          "models": ["F-150 Lightning"],
+          "contract_value_billion_usd": 2.0
+        }
+      ],
+      "revenue_by_customer_2024": {
+        "Tesla": "35%",
+        "GM": "20%",
+        "Hyundai-Kia": "15%",
+        "Others": "30%"
+      }
+    },
+    "supply_chain": {
+      "lithium": {
+        "suppliers": ["Albemarle", "SQM", "Ganfeng"],
+        "long_term_contracts": "80% secured through 2026",
+        "spot_dependency": "20%"
+      },
+      "cobalt": {
+        "suppliers": ["Glencore", "Direct mine investments"],
+        "diversification_strategy": "Transitioning to low-cobalt NCM9"
+      },
+      "cathode_materials": {
+        "suppliers": ["POSCO Chemical", "Ecopro", "L&F"],
+        "vertical_integration": "Pursuing partial in-house production"
+      },
+      "supply_security_score": "B+ (Cobalt risk exists)"
+    },
+    "strategic_position": {
+      "strengths": [
+        "North American production base secured (IRA eligible)",
+        "Long-term partnership with Tesla",
+        "Diverse technology portfolio (NCM+LFP+Cylindrical)"
+      ],
+      "weaknesses": [
+        "Weaker cost competitiveness vs Chinese manufacturers",
+        "Financial burden from 2023 losses",
+        "Geopolitical risk in cobalt supply chain"
+      ],
+      "opportunities": [
+        "IRA windfall benefits from US-China tensions",
+        "GM/Ford supply expansion potential",
+        "Proactive EU Battery Passport compliance"
+      ],
+      "threats": [
+        "CATL Mexico plant completion (2028) may offset windfall by 50%",
+        "Raw material price surge risk",
+        "Chinese government subsidy expansion"
+      ]
+    },
+    "recent_news": [
+      {
+        "date": "2024-03-15",
+        "headline": "Ohio plant additional 20GWh expansion confirmed",
+        "impact": "50% increase in North American supply capacity",
+        "capex_billion_usd": 3.2
+      },
+      {
+        "date": "2024-02-10",
+        "headline": "GM Ultium supply contract extended through 2028",
+        "impact": "Secured $5B annual revenue visibility"
+      },
+      {
+        "date": "2024-01-20",
+        "headline": "4680 cylindrical battery mass production begins",
+        "impact": "Tesla Cybertruck supply commences"
+      }
+    ],
+    "analyst_consensus": {
+      "target_price_krw": 450000,
+      "rating_distribution": {
+        "buy": 15,
+        "hold": 8,
+        "sell": 2
+      },
+      "key_concerns": [
+        "Margin improvement pace",
+        "Price competition with CATL",
+        "Lithium price volatility"
+      ]
+    }
+  },
+  "metadata": {
+    "collected_at": "2026-04-25T07:34:00",
+    "sources": ["DART Electronic Disclosure", "LGES IR"],
+    "status": "completed"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "agent": "CATL",
+  "data": {
+    "profile": {
+      "full_name": "Contemporary Amperex Technology Co. Limited",
+      "chinese_name": "宁德时代",
+      "stock_code": "300750.SZ (Shenzhen)",
+      "market_cap_billion_usd": 120,
+      "global_rank": 1,
+      "founded": "2011",
+      "headquarters": "Ningde, Fujian, China"
+    },
+    "market_position": {
+      "global_share_2024": "37.5%",
+      "global_share_2023": "36.8%",
+      "trend": "Maintaining market dominance",
+      "shipment_2024_gwh": 450,
+      "growth_yoy": "+28%"
+    },
+    "financials": {
+      "2024": {
+        "revenue_billion_usd": 55.0,
+        "revenue_billion_cny": 395.0,
+        "operating_profit_billion_usd": 8.5,
+        "operating_margin_percent": 15.5,
+        "rd_investment_billion_usd": 3.2,
+        "government_subsidy_billion_usd": 1.8
+      },
+      "note": "Includes Chinese government subsidies; actual margin may be lower"
+    },
+    "capacity": {
+      "2024_total_gwh": 800,
+      "2025_plan_gwh": 1000,
+      "2030_target_gwh": 1500,
+      "facilities": [
+        {
+          "location": "Ningde, China",
+          "capacity_gwh": 200,
+          "status": "Operational"
+        },
+        {
+          "location": "Yibin, China",
+          "capacity_gwh": 150,
+          "status": "Operational"
+        },
+        {
+          "location": "Debrecen, Hungary",
+          "capacity_gwh": 100,
+          "status": "Operational",
+          "note": "For European market"
+        },
+        {
+          "location": "Monterrey, Mexico",
+          "capacity_gwh": 50,
+          "status": "Planning stage",
+          "expected_start": "2028",
+          "strategic_importance": "IRA workaround attempt"
+        }
+      ],
+      "utilization_rate_2024": "82%"
+    },
+    "technology": {
+      "main_chemistries": ["LFP", "NCM"],
+      "lfp_advantage": {
+        "cost_per_kwh": "$75 (vs NCM $105, 30% cheaper)",
+        "safety": "Lower thermal runaway risk",
+        "cycle_life": "3000+ cycles",
+        "market_share_in_lfp": "70%+"
+      },
+      "next_gen": {
+        "qilin_battery": {
+          "energy_density_wh_kg": 255,
+          "improvement": "13% improvement over previous gen",
+          "status": "Mass production"
+        },
+        "sodium_ion": {
+          "energy_density_wh_kg": 160,
+          "cost_advantage": "30% cheaper than lithium",
+          "status": "2025 mass production target"
+        },
+        "condensed_battery": {
+          "energy_density_wh_kg": 500,
+          "application": "Aviation mobility",
+          "status": "Research stage"
+        }
+      },
+      "patents_filed_2024": 3500,
+      "rd_personnel": 18000
+    },
+    "customers": {
+      "major_oems": [
+        {
+          "name": "Tesla",
+          "supply_share": "40%",
+          "models": ["Model 3/Y Standard Range (LFP)"],
+          "contract_value_billion_usd": 12.0,
+          "region": "For China factory"
+        },
+        {
+          "name": "Volkswagen",
+          "supply_share": "25%",
+          "contract_value_billion_usd": 8.0,
+          "jv": "Joint venture under consideration"
+        },
+        {
+          "name": "BMW",
+          "supply_share": "15%",
+          "models": ["iX3", "i3"],
+          "contract_value_billion_usd": 5.0
+        },
+        {
+          "name": "BYD",
+          "supply_share": "10%",
+          "note": "Declining trend as BYD expands in-house production"
+        },
+        {
+          "name": "NIO, XPeng, Li Auto",
+          "supply_share": "10%",
+          "note": "Chinese emerging EV manufacturers"
+        }
+      ],
+      "customer_diversification": "Very high (50+ OEMs)"
+    },
+    "supply_chain": {
+      "vertical_integration": "High",
+      "lithium": {
+        "strategy": "Direct mine investment + long-term contracts",
+        "mines": ["Pilbara (Australia)", "Millennial Lithium (Argentina)"],
+        "self_sufficiency": "60%"
+      },
+      "cathode_production": {
+        "internal_share": "80%",
+        "suppliers": ["In-house", "BTR", "Shanshan"]
+      },
+      "cost_advantage": "20% cost reduction through vertical integration"
+    },
+    "strategic_position": {
+      "strengths": [
+        "Overwhelming market share (37.5%)",
+        "LFP technology and cost competitiveness",
+        "Supply chain control through vertical integration",
+        "Strong Chinese government support",
+        "Broad customer portfolio"
+      ],
+      "weaknesses": [
+        "Cannot directly enter US market (IRA FEOC)",
+        "Geopolitical risk (US-China tensions)",
+        "High dependence on government subsidies",
+        "Weak competitiveness in premium market"
+      ],
+      "opportunities": [
+        "Potential IRA workaround via Mexico plant",
+        "Create new markets with sodium-ion batteries",
+        "Expand in Global South markets (Southeast Asia, Latin America, Africa)"
+      ],
+      "threats": [
+        "IRA regulation tightening",
+        "Mexico plant may also receive FEOC designation",
+        "Korean manufacturers' North American windfall",
+        "Intensified competition as LFP patents expire"
+      ]
+    },
+    "government_support": {
+      "subsidies_2024_billion_usd": 1.8,
+      "types": [
+        "R&D subsidies",
+        "Production subsidies",
+        "Export support",
+        "Low-interest loans"
+      ],
+      "strategic_importance": "Core industry for Chinese government cultivation",
+      "hypothetical_scenario": {
+        "if_us_tariff_increased": {
+          "expected_additional_subsidy_percent": 20,
+          "duration_years": 3,
+          "goal": "Maintain global competitiveness"
+        }
+      }
+    },
+    "mexico_expansion": {
+      "status": "Under review (as of 2024)",
+      "capacity_gwh": 50,
+      "investment_billion_usd": 5.0,
+      "timeline": {
+        "decision": "First half 2025",
+        "groundbreaking": "2026",
+        "production_start": "2028"
+      },
+      "strategic_rationale": [
+        "Attempt to circumvent IRA via USMCA",
+        "Secure Tesla/GM North American supply chain",
+        "Avoid tariffs on China"
+      ],
+      "risks": [
+        "High likelihood of IRS FEOC designation",
+        "Mexican government regulations on Chinese investment",
+        "Construction delay risk"
+      ],
+      "ira_eligibility_uncertainty": "Under legal review, not confirmed"
+    },
+    "recent_actions": [
+      {
+        "date": "2024-03-20",
+        "action": "Qilin battery mass production commenced",
+        "impact": "Achieved industry-leading energy density"
+      },
+      {
+        "date": "2024-02-15",
+        "action": "LFP supply contract with Tesla extended 3 years",
+        "value_billion_usd": 12.0
+      },
+      {
+        "date": "2024-01-10",
+        "action": "Sodium-ion battery pilot production",
+        "significance": "Strategy to reduce lithium dependency"
+      }
+    ],
+    "competitive_response_to_us_tariff": {
+      "price_reduction": "Possible, has margin flexibility",
+      "mexico_acceleration": "Attempting to secure IRA workaround route",
+      "non_us_market_focus": "Strengthen presence in Europe, Southeast Asia, Latin America",
+      "technology_upgrade": "Differentiation through Qilin/sodium-ion"
+    }
+  },
+  "metadata": {
+    "collected_at": "2026-04-25T07:34:00",
+    "sources": ["CATL IR", "Reuters/Bloomberg reports", "SNE Research market data"],
+    "status": "completed"
+  }
+}

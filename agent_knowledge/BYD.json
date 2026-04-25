@@ -1,0 +1,72 @@
+{
+  "agent": "BYD",
+  "data": {
+    "profile": {
+      "full_name": "BYD Company Limited",
+      "chinese_name": "比亚迪",
+      "stock_code": "002594.SZ / 1211.HK",
+      "market_cap_billion_usd": 95,
+      "global_battery_rank": 3,
+      "global_ev_rank": 1,
+      "founded": "1995",
+      "headquarters": "Shenzhen, China"
+    },
+    "market_position": {
+      "battery_global_share_2024": "17.8%",
+      "ev_global_share_2024": "18.2%",
+      "unique_position": "Only battery+automotive vertical integration player"
+    },
+    "financials": {
+      "2024": {
+        "total_revenue_billion_usd": 85.0,
+        "auto_segment_billion_usd": 70.0,
+        "battery_segment_billion_usd": 15.0,
+        "operating_margin_percent": 11.0,
+        "rd_investment_billion_usd": 5.5
+      }
+    },
+    "capacity": {
+      "2024_total_gwh": 280,
+      "2025_plan_gwh": 350,
+      "internal_use_percent": 75,
+      "external_sales_percent": 25,
+      "note": "Priority supply to own EVs, surplus sold externally"
+    },
+    "technology": {
+      "blade_battery": {
+        "chemistry": "LFP",
+        "form_factor": "Blade (long cell shape)",
+        "safety_advantage": "Passed nail penetration test",
+        "cost_per_kwh": "$70",
+        "status": "Flagship product"
+      },
+      "differentiation": "Simultaneous achievement of safety and cost"
+    },
+    "strategic_position": {
+      "strengths": [
+        "Vertical integration (battery→vehicle)",
+        "Blade battery safety",
+        "Dominance in Chinese domestic market",
+        "Best-in-class price competitiveness"
+      ],
+      "weaknesses": [
+        "Limited global market penetration",
+        "Low external sales ratio",
+        "Lack of premium technology"
+      ],
+      "opportunities": [
+        "EV sales growth automatically secures battery demand",
+        "External sales expansion potential"
+      ],
+      "threats": [
+        "Competition with CATL in Chinese market",
+        "Global trade barriers"
+      ]
+    }
+  },
+  "metadata": {
+    "collected_at": "2026-04-25T07:34:00",
+    "sources": ["BYD IR", "Media reports"],
+    "status": "completed"
+  }
+}
